@@ -1,6 +1,6 @@
 # Вверх по скалам
 
-![Логотип игры](https://res.cloudinary.com/unix-center/image/upload/c_limit,dpr_3.0,f_auto,fl_progressive,g_center,h_580,q_75,w_906/nxntdtbsu9htndt172ha.jpg)
+![Логотип игры](logo/logo3.png)
 
 
 ## Описание
