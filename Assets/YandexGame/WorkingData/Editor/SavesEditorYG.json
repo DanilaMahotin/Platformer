@@ -1,0 +1,28 @@
+{
+    "idSave": 189,
+    "isFirstSession": false,
+    "language": "ru",
+    "promptDone": false,
+    "money": 1,
+    "newPlayerName": "Hello!",
+    "openLevels": [
+        false,
+        true,
+        false
+    ],
+    "Money": 205,
+    "BoughtSkins": [
+        true,
+        true
+    ],
+    "SelectedSkinIndex": 0,
+    "BoughtCaps": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "SelectedCapIndex": 0
+}
